@@ -3,7 +3,7 @@ A GUI tool developed using Python and PyQt5 to calculate and provide simple adap
 
 #Feature:
 - An inteactive smith chart
-- Calculate fenerate 2 solutions based on the operating frequency, characteristic impedence and either the load impedence or the reflexion coefficient.
+- Calculate, generate solutions based on the operating frequency, characteristic impedence and either the load impedence or the reflexion coefficient.
 - A tool to design and experiment with custom solutions.
 
 
